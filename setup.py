@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='M-AT-STAR-Tools',
-    version='1.0.2',
+    version='1.0.1',
     packages=find_packages(),
     entry_points={
         'console_scripts': [
